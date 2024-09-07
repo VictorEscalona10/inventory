@@ -1,0 +1,1 @@
+# NodeJS Prisma PostgreSQL Inventory CRUD
